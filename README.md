@@ -8,7 +8,7 @@ Problems are organized by topic for easy navigation.
 ## Folder Structure
 - `Array/` - Array problems
 - `LinkedList/` - Linked List problems (coming soon)
-- `Stack/` - Stack problems (coming soon)
+- `Stack/` - Stack problems 
 - `Queue/` - Queue problems (coming soon)
 
 ---
