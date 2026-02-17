@@ -18,7 +18,7 @@ Problems are organized by topic for easy navigation.
 | Problem | Approach | Time Complexity | Space Complexity |
 |---------|---------|----------------|-----------------|
 | Second Largest Element | Single traversal | O(n) | O(1) |
-| Two Sum | Hashing | O(n) | O(n) |
+| Two Sum | traversal | O(n^2) | O(1) |
 | Reverse Array | Two-pointer method | O(n) | O(1) |
 | Rotate Array Left by d Positions | Temporary array (O(n*d) commented) | O(n) | O(n) |
 
