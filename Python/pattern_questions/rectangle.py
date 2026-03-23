@@ -18,7 +18,7 @@ Output:
 Approach:
 ----------
 1. Take input for number of rows and columns.
-2. Use two nested loops:
+2. Use two nested loops
    - Outer loop runs for each row
    - Inner loop runs for each column
 3. Print '*' for every column in a row.
